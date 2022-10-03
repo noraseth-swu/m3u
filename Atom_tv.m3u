@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="Movies", HBO HD
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-hbo-thai/chunks.m3u8?nimblesessionid=23104901&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6Mjc6MTggQU0maGFzaF92YWx1ZT1ZVGFSZzhJVmRZbkpEM3NWL3FSUXJ3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9Mzg1MTY0
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-hbo-thai/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="Movies", HBO FAMILY
-https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hbo-family/chunks.m3u8?nimblesessionid=23105142&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6Mjg6MjUgQU0maGFzaF92YWx1ZT1JSDF3TWR6WUlib0ZwVERQZFBrY3pRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9OTExNDQz
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hbo-family/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="Movies", HBO HITS
-https://hboasialive.akamaized.net/hls/live/2007801/HITS/hdntl=exp=1661675373~acl=%2f*~data=hdntl~hmac=4cf165c98d834c2050e2e654ff1374bba24f1e3833cdfc6e155f8a03924337b6/5.m3u8
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="Movies", HBO SIGNATURE
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signature/chunks.m3u8?nimblesessionid=23838946&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6MzA6MjQgQU0maGFzaF92YWx1ZT1wY3QzaTNEV0hrZCtpVzF1bGx3UzBBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9MTE0MTIw
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="Movies", CINEMAX
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/fhd-cinemax/chunks.m3u8?nimblesessionid=23839034&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6MzE6MTkgQU0maGFzaF92YWx1ZT1rbENDWTlBTEVrNnlKUElYL2hsT3J3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9NDU3MTE1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/fhd-cinemax/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/b3ddbb9fa0da061747874eed508f6eb2.png" group-title="Movies", TRUE MOVIE HITS
-https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/moviehits/chunks.m3u8?nimblesessionid=23294648&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6MzI6MDQgQU0maGFzaF92YWx1ZT1BdFFOeDVrbTJPQmlCT05admVMTmNnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9MjQyODAx
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/moviehits/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/602765d68a820b53985b6b41c76f0c0d.png" group-title="Movies", TRUE SERIES
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8?nimblesessionid=27644472&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6MzI6NDYgQU0maGFzaF92YWx1ZT14UTBkME5qcW9CaS84NWQ1V09adk93PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9ODc1NzQw
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e5f20c87e265fa8cf7b5c31fe9c8baf.png" group-title="Movies", TRUE ASIAN SERIES HD
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8?nimblesessionid=27644472&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDg6MzI6NDYgQU0maGFzaF92YWx1ZT14UTBkME5qcW9CaS84NWQ1V09adk93PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9ODc1NzQw
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png" group-title="Documentary" , HISTORYHD
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png" group-title="Documentary" , H2
@@ -25,3 +25,7 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playl
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-discovery/chunks.m3u8
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/discovery-asia/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXPLORE LIFE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXPLORE SCI
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
